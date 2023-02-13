@@ -18,12 +18,14 @@ An asynchronous web app that uses Web API and user data to dynamically update th
  - Node.js
  
  ### Installation:
+ Local Installation
+ - Go inside the Weather_Journal_App folder
  - Install Node.js modules
    * Express.js
    * cors
    * body-parser
- - Run a local server by Express.js
- - Open index.html file in browser and make sure css and js folders in same folder of index.html (website folder)
+ - Run this command "sudo node server.js".
+ - The service port is 3500.
 
 ### API Used:
 
