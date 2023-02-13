@@ -3,11 +3,11 @@ An asynchronous web app that uses Web API and user data to dynamically update th
 
 ## Table of content:
 
- - Technologies used
+ - Technologies Used
  - Installation 
- - API source
+ - API Used
 
-### Technologies used:
+### Technologies Used:
 
  - HTML
  (index.html)
@@ -25,7 +25,7 @@ An asynchronous web app that uses Web API and user data to dynamically update th
  - Run a local server by Express.js
  - Open index.html file in browser and make sure css and js folders in same folder of index.html (website folder)
 
-### API source:
+### API Used:
 
 - Open Weather Map API 
 
